@@ -48,7 +48,6 @@ typings/
 .nuxt
 
 # Build
-dist
 dist-ssr
 *.local
 
